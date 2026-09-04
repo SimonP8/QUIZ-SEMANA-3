@@ -128,6 +128,7 @@ def salario_promedio(empleados):
     pass
 
 
+
 # 6) Funcion principal
 def ejecutar_quiz():
     empleados = leer_empleados_excel("empleados.xlsx")
